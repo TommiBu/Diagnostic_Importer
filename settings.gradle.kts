@@ -1,0 +1,1 @@
+rootProject.name = "importer_prototype_2"
