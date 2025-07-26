@@ -1,8 +1,8 @@
-package main.java.export;
+package cz.diagnostic.export;
 
-import main.java.model.MetricEntry;
-
+import cz.diagnostic.model.MetricEntry;
 import java.io.FileWriter;
+import java.io.IOException;
 import java.util.List;
 
 public class CsvExporter {

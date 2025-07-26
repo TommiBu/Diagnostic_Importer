@@ -1,4 +1,6 @@
-package main.java.model;
+package cz.diagnostic.model;
+
+import java.time.LocalDate;
 
 public class MetricEntry {
     public String athleteId;
